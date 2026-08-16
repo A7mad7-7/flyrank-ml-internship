@@ -1,0 +1,8 @@
+{
+    "total_candidates_analyzed": 30000,
+    "pending_human_review_count": 6002,
+    "high_demand_stale_count": 9,
+    "ctr_decay_risk_count": 5988,
+    "legacy_stagnant_count": 5,
+    "mean_decay_probability": 0.5020841713520939
+}
