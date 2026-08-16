@@ -102,6 +102,6 @@ Editorial teams should execute content refreshes according to a 3-tier probabili
 
 ---
 
-## 8. Acknowledgments & Data Credit
+## Acknowledgments & data credit
 
 This research paper and underlying models were **Built on the FlyRank ML Internship dataset** provided by [FlyRank](https://flyrank.ai).
